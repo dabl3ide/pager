@@ -42,7 +42,7 @@
 }
 
 body{
-  background-image: url(/websitetest/index1/background/background-image.png);
+  background-image: url=('websitetest/index1/background/background-image.png');
   background-repeat: repeat-x;
   background-attachment: scroll;
   background-size: 100%;
