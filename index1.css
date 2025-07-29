@@ -1,4 +1,3 @@
-
 .bitcount-hello1 {
   font-family: "Bitcount", system-ui;
   font-optical-sizing: auto;
@@ -42,7 +41,7 @@
 }
 
 body{
-  background: url('/websitetest/index1/background/background-image.png');
+  background-image: url (/websitetest/index1/background/background-image.png);
   background-repeat: repeat-x;
   background-attachment: scroll;
   background-size: 100%;
